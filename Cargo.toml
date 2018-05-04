@@ -1,0 +1,9 @@
+[package]
+name = "manifest-generator"
+version = "0.1.0"
+authors = ["Emmett Raymond <emmettaraymond@gmail.com>"]
+
+[dependencies]
+walkdir = "2"
+failure = "0.1"
+mime_guess = "1.8"
