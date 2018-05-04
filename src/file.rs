@@ -2,7 +2,6 @@ extern crate mime_guess;
 
 use std::path::{PathBuf};
 use std::string::String;
-use std::fmt;
 
 pub struct File {
     path: PathBuf,
